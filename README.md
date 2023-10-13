@@ -18,7 +18,7 @@
 </div>
 
 
-<h2>:busts_in_silhouette: How to reach me</h2>
+<h2>:busts_in_silhouette: Reach out to me! </h2>
 <a href="https://github.com/Kritaarth">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Kritaarth?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Kritaarth" height="22px">
 
@@ -33,7 +33,7 @@
 </a>
 </br>
 
-<h2>:bulb: Languages & Frameworks I code in</h2>
+<h2>:bulb: Languages & Frameworks I specialise in! </h2>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
@@ -41,8 +41,8 @@
 <code><img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-
-<h2>:hammer_and_wrench: Things that help me in coding</h2>
+ 
+<h2>:hammer_and_wrench: Softwares that assist me! </h2>
 
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
