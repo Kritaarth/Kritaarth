@@ -29,7 +29,7 @@
 </a>
 </a>
 <a href="mailto:kritaarth@hotmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=Kritaarth.hotmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=Kritaarth@hotmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </br>
 
