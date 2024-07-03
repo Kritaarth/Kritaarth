@@ -35,7 +35,7 @@
 
 
 <h2 align="center">:thought_balloon: Quote of the day</h2>
-<details open>
+<details align="center" open>
     <summary align="center" >See quote</summary>
     <a align="center" href="https://github.com/piyushsuthar/github-readme-quotes">
         <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
