@@ -38,7 +38,7 @@
 <details open>
     <summary align="center" >See quote</summary>
     <a align="center" href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+        <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
 
