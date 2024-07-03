@@ -29,7 +29,7 @@ I'm Kritaarth <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/ma
 <code><img align="center" title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img align="center" title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
  
-<h2>:hammer_and_wrench: Softwares that assist me! </h2>
+<h2 align="center">:hammer_and_wrench: Softwares that assist me! </h2>
 
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
