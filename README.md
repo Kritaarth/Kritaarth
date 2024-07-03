@@ -4,7 +4,7 @@
 <h2 align="center">:busts_in_silhouette: Reach out to me! </h2>
 <a href="https://github.com/Kritaarth" align="center">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Kritaarth?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Kritaarth" height="22px">
-
+align="center"
 </a>
 
 <a href="https://www.linkedin.com/in/kritaarth">
