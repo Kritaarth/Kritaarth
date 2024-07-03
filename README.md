@@ -1,6 +1,7 @@
+<div id="top"></div>
 <h1 align="Center">Hello There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> I'm Kritaarth <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> </h1>
 
-<div id="top"></div>
+
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Kritaarth/Kritaarth/blob/main/assets/header.png"></div>
 
 
