@@ -34,7 +34,7 @@
 </br></br>
 
 
-<h2>:thought_balloon: Quote of the day</h2>
+<h2 align="center">:thought_balloon: Quote of the day</h2>
 <details open>
     <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
