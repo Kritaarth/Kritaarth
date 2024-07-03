@@ -71,11 +71,5 @@
 </details> -->
 
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="End of the profile" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=This+is+the+way" >
-    </a>
-</div>
-
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+To+Top&color=7E3ACE&style=flat&logo" alt="Back To Top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/Kritaarth/Kritaarth/blob/main/assets/footer.png"></div>
