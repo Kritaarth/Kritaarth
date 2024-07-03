@@ -1,6 +1,8 @@
 <h1 align="Center">  Hello There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Kritaarth <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
 
+
+
 <h2 align="center">:busts_in_silhouette: Reach out to me! </h2>
 <a href="https://github.com/Kritaarth" align="center">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Kritaarth?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Kritaarth" height="22px">
